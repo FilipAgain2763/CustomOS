@@ -1,3 +1,6 @@
+# CustomOS (aka cOS)
+Yet another ArkOS fork, trying to make it more customizable and moddable, also adding more systems in the process.
+
 <p align="left"><img width="200" height="100" src="https://github.com/christianhaitian/arkos/raw/main/devices/ArkOSLogoOreoTransparent.bmp">
 </p>
 Another rockchip Operating System
